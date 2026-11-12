@@ -1,4 +1,4 @@
-# Salut, je suis Ibrahima 👋
+# Salut, je suis OUEDRAOGO Ibrahima 
 
 Étudiant en **informatique appliquée** (L2) à l'IFOAD / Université Joseph Ki-Zerbo 🇧🇫
 Passionné par la programmation, avec pour objectif de devenir **ingénieur en IA / Machine Learning**.
